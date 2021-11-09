@@ -24,3 +24,5 @@ while (n < 3) {
 - Kreatives Schreiben
 - Gaming
 
+**Mein Motto:**
+Es gibt keine Probleme, nur Herausforderungen.
