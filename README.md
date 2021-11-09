@@ -17,3 +17,8 @@ while (n < 3) {
 
 ![Manuel](./manuel.jpg)
 
+**Daneben interessiere ich mich für:**
+- Natur erleben
+- Lesen
+- Kreatives Schreiben
+
