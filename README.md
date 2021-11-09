@@ -14,5 +14,5 @@ while (n < 3) {
 ````
 
 Wenn ich nicht arbeite bin ich gerne am Wasser und angel:
-![Manuel](./manuel.jpg)
+![Manuel](./Manuel.jpg)
 
