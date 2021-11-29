@@ -14,11 +14,8 @@ while (n < 3) {
 }
 ````
 
-**Wenn ich nicht arbeite bin ich gerne am Wasser und angel:**
-
-![Manuel](./manuel.jpg)
-
-**Daneben interessiere ich mich für:**
+**Neben meiner Arbeit interessiere ich mich für:**
+- Angeln
 - Natur erleben
 - Lesen
 - Kreatives Schreiben
