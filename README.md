@@ -1,7 +1,7 @@
 # Moin aus Hamburg
 
 ## Über mich:
-Ich bin Manuel aus Glinde bei Hamburg. Nach 20 Jahren in der _Speditionsbranche_ bin ich nun auf WebDeveloper _neuefische GmbH_ umgesattelt.
+Ich bin Manuel aus Glinde bei Hamburg. Nach 20 Jahren in der _Speditionsbranche_ bin ich nun auf _Web-/Softwaredeveloper_ umgesattelt.
 
 [Mein Xing Profil](https://www.xing.com/profile/Manuel_Verweyen/)
 
