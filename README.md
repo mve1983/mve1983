@@ -18,7 +18,6 @@ while (n < 3) {
 - Angeln
 - Natur erleben
 - Lesen
-- Kreatives Schreiben
 - Gaming
 
 **Mein Motto:**
