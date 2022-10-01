@@ -6,7 +6,7 @@ After finishing a Web Development Bootcamp Course I'm now working as a Web/Softw
 
 [My Xing profile](https://www.xing.com/profile/Manuel_Verweyen/)
 
-**Hobbys:*
+**Hobbys:**
 - Fishing
 - Nature
 - Novels
