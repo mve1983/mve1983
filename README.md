@@ -1,25 +1,17 @@
-# Moin aus Hamburg
+# Moin from Hamburg
 
-## Über mich:
-Ich bin Manuel aus Glinde bei Hamburg. Nach 20 Jahren in der _Speditionsbranche_ bin ich nun auf _Web-/Softwaredeveloper_ umgesattelt.
+## About me:
+I'm Manuel from Hamburg, Germany. After twenty years of work in the forwarding/logistics sector I decided to do something else.
+After finishing a Web Development Bootcamp Course I'm now working as a Web/Software Developer.  
 
-[Mein Xing Profil](https://www.xing.com/profile/Manuel_Verweyen/)
+[My Xing profile](https://www.xing.com/profile/Manuel_Verweyen/)
 
-**Meine Lieblingsschleife:**
-````
-let n = 0;
-while (n < 3) {
-  n++;
-  console.log("Coden ist cool");
-}
-````
-
-**Neben meiner Arbeit interessiere ich mich für:**
-- Angeln
-- Natur erleben
-- Lesen
+**Hobbys:*
+- Fishing
+- Nature
+- Novels
 - Gaming
 
-**Mein Motto:**
+**My Slogan:**
 
-Es gibt keine Probleme, nur Herausforderungen.
+There are no problems, only challenges.
